@@ -40,7 +40,7 @@ nav:
 - Home:
   - About me: index.md
   - Contact & Links: home\Contact & Links.md
-  - about us: home\About us.md
+
 
 - Research:
   - Digital Twin Framework: research\research1.md
