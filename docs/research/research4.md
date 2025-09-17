@@ -1,13 +1,13 @@
 ### Bayesian prediction of tunnel convergence combining empirical model and relevance vector machine
 
 <div style="text-align: center;">
-  <img src="/docs/image/dp.jpg" alt="DT" style="width:600px; height:auto; border-radius:0%;" />
+  <img src="../image/dp.jpg" alt="DT" style="width:600px; height:auto; border-radius:0%;" />
 </div>
 
 
 
 <div style="text-align: left;">
-  <img src="/docs/image/dp1.jpg" alt="DT" style="width:600px; height:auto; border-radius:5%;" />
+  <img src="../image/dp1.jpg" alt="DT" style="width:600px; height:auto; border-radius:5%;" />
 </div>
 
 
