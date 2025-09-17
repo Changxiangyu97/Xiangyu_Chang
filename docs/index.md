@@ -1,17 +1,34 @@
-# Welcome to MkDocs
+# About Me
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+<div style="text-align: center;">
+  <img src="image/image.jpg" alt="Wei Shen" style="width:200px; height:auto; border-radius:5%;"/>
+</div>
 
-## Commands
+### **Xiangyu Chang (Ryan)**  
+_PhD student_  
+School of Civil and Environmental Engineering, Nanyang Technological University, Singapore   
+(Here for [CV](cv\20250423_畅翔宇_中文.pdf "Click to download"))
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+### **Research Interests:**
+Digital Twin | Smart City | Underground Structure | Numerical Simulation | Computer Vision | Surrogate Strategy
 
-## Project layout
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+
+### **Education:**
+- **PhD in Civil Engineering  (Supervised by [Prof. Yuguang Fu](https://www.yfulift.org/members))**  
+  Nanyang Technological University, Singapore, 2022–present 
+
+- **R.A.**  
+  Southeast University, P.R. China, 2021–2022
+- **MEng in Mechanics    (Supervised by [Prof. Hao Wang](https://civil.seu.edu.cn/wh/list.htm))**  
+  Southeast University, P.R. China, 2018–2021
+  
+- **BSc in Road, Bridge, and River-Crossing Engineering**  
+  Anhui Jianzhu University, P.R. China, 2014–2018
+
+
+
+
+
+
+

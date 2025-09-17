@@ -1,3 +1,66 @@
 site_name: Xiangyu Chang
 theme:
   name: material
+
+  icon:
+    logo: material/github
+
+  # language: zh
+
+  palette:
+
+
+        # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: light blue
+      toggle:
+        icon: material/lightbulb
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: gray
+      toggle:
+        icon: material/lightbulb-outline
+        name: Switch to light mode
+
+  features:
+    - navigation.top   # 返回顶部按钮
+    - navigation.tabs  # 顶部分类标签
+    - search.highlight # 搜索结果高亮
+
+
+copyright: Copyright @ 1997-2025 Xiangyu Chang All Rights Reserved
+
+
+nav:
+
+- Home:
+  - About me: index.md
+  - Contact & Links: home\Contact & Links.md
+  - about us: home\About us.md
+
+- Research:
+  - Digital Twin Framework: research\research1.md
+  - CV-based model updating techniques: research\research2.md
+  - Back-analysis method of rock mass properties: research\research3.md
+  - Tunnel deformation prediction: research\research4.md
+
+- Publications:
+  - Paper: publication\Papers.md
+  - Patent: publication\Patent.md
+
+
+
+# github account: xiangyu.chang1997@gmail.com
+# open local serve: mkdocs serve
+
+
+
+# after you finish revison, run: 
+# Terminal: cd D:/0-Data\python/personal_website/Xiangyu_Chang 
+# -->  mkdocs gh-deploy
+
+
